@@ -33,6 +33,7 @@ jobs:
       # write permission is required to create a github release
       contents: write
       deployments: write
+      packages: write
 
     #########################################################################################
     # Do not use startegy for containers building.                                          #
